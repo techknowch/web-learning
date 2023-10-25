@@ -23,7 +23,6 @@ body {
 .grid-item {
     /* box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5); */
     height: 418px;
-    border-radius: 6px;
 }
 
 .grid__content {
@@ -32,11 +31,12 @@ body {
     padding: 25px;
     line-height: 1.5;
     text-align: justify;
+    height: 35%;
 }
 
 .grid__image {
     /* background-image: url('./images/photo-1512250591270-0bea37004c99.jpeg'); */
-    height: 50%;
+    height: 65%;
     background-repeat: no-repeat;
     background-size: cover;
     /* background-size: contain; */
